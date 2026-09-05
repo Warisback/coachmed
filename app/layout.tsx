@@ -6,8 +6,8 @@ const instrument = Instrument_Sans({ subsets: ['latin'], variable: '--font-instr
 const interTight = Inter_Tight({ subsets: ['latin'], variable: '--font-inter-tight' });
 
 export const metadata: Metadata = {
-  title: 'CoachMed',
-  description: 'Medication check-ins that reach the practice before the review.',
+  title: 'First Line AI',
+  description: 'Clinician-approved answers for people with type 2 diabetes on GLP-1 medication.',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
