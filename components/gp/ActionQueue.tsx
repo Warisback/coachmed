@@ -9,7 +9,7 @@ const REPEAT_ASSIGNEE = 'Dr Osei — repeat to sign';
 
 const KIND_LABEL: Record<FlagKind, string> = {
   stopped: 'Stopped',
-  missed_pattern: 'Missed doses',
+  missed_pattern: 'Missing doses',
   side_effect: 'Side effect',
   low_supply: 'Low supply',
 };
